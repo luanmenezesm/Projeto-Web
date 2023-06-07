@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --font-montserrat: Montserrat;
+
+  --font-size-17xl: 36px;
+  --font-size-45xl: 64px;
+  --font-size-21xl: 40px;
+  --font-size-29xl: 48px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+  --font-size-xl: 20px;
+  --font-size-9xl: 28px;
+
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslategray: #2d3f53;
+  --color-gainsboro-100: #e4e4e4;
+  --color-gainsboro: #d9d9d9;
+  --color-darkgray-100: #adaeaf;
+  --color-darkgray: #a7a7a7;
+  --color-yellowgreen-100: #8fd82b;
+  --color-yellowgreen-200: #b5b82d;
+  --color-yellowgreen-300: #78b227;
+  --color-mediumseagreen: #00d085;
+  --color-dodgerblue-100: #0092ff;
+  --color-dodgerblue-200: #0070d8;
+  --color-darkorchid: #8000ad;
+  --color-gold: #d5d82f;
+  --color-goldenrod: #fbba2e;
+  --color-orange: #f99d29;
+  --color-orangered: #ee5600;
+  --color-crimson: #d80034;
+  --color-khaki: #faeb73;
+  --color-whitesmoke: #ededed;
+  --color-gray: #909090;
+
+  --br-30xl: 49px;
+  --br-2xl: 21px;
+  --br-xl: 20px;
+  --br-8xs: 5px;
+  --br-mini: 15px;
+  --br-mid: 17px;
+  --br-3xs: 10px;
+  --br-41xl: 60px;
+  --br-6xl: 25px;
+  --br-5xs: 8px;
+  --br-4xs: 9px;
+}
